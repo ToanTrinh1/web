@@ -1,0 +1,32 @@
+table,
+td,
+th {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 6px 10px;
+}
+table{
+    width: 75%;
+    margin-top: 20px;
+}
+.toan{
+    text-align: center;
+}
+input{
+    text-align: center;
+    width: 10%;
+    margin-left: auto;
+}
+
+
